@@ -1,0 +1,16 @@
+{
+  "name": "nodeblog",
+  "version": "1.0.0",
+  "description": "Node.js Express.js MongoDB  Application",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "sqlite3": "^5.0.0"
+  }
+}
