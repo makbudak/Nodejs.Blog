@@ -1,7 +1,5 @@
 const express = require('express')
 var exphbs = require('express-handlebars');
-var employee = require('./modules/employee_module');
-const path = require('path')
 const app = express()
 const port = 3000
 const hostName = '127.0.0.1'
